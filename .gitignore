@@ -1,0 +1,13 @@
+# Секрети та локальні налаштування
+.env
+.env.*
+*.key
+credentials*.json
+
+# Системні файли
+.DS_Store
+Thumbs.db
+
+# Тимчасові файли
+*.part.*
+*.tmp
